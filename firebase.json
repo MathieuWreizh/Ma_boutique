@@ -1,0 +1,40 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ma-boutique-12b43",
+          "appId": "1:801622912874:android:37c4a7788b2d8bdf08bf13",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ma-boutique-12b43",
+          "configurations": {
+            "android": "1:801622912874:android:37c4a7788b2d8bdf08bf13",
+            "ios": "1:801622912874:ios:8330f3f00fc814e108bf13",
+            "macos": "1:801622912874:ios:8330f3f00fc814e108bf13",
+            "web": "1:801622912874:web:bb9e70d17c3f89b508bf13",
+            "windows": "1:801622912874:web:1a1984c73edacd5708bf13"
+          }
+        }
+      }
+    }
+  },
+  "extensions": {},
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
