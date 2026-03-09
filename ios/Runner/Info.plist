@@ -43,10 +43,10 @@
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
 					<key>UISceneStoryboardFile</key>
 					<string>Main</string>
-				</dict>
+				<key>NSCameraUsageDescription</key><string>Cette application utilise la caméra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accède à vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
 			</array>
-		</dict>
-	</dict>
+		<key>NSCameraUsageDescription</key><string>Cette application utilise la caméra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accède à vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
+	<key>NSCameraUsageDescription</key><string>Cette application utilise la caméra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accède à vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -66,5 +66,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-</dict>
+<key>NSCameraUsageDescription</key><string>Cette application utilise la caméra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accède à vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
 </plist>
