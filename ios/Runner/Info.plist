@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<key>NSCameraUsageDescription</key>
+<string>Cette application utilise la camÃ©ra pour prendre des photos.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Cette application accÃ¨de Ã  vos photos.</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>Cette application utilise le microphone.</string>
 <dict>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
@@ -43,10 +49,10 @@
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
 					<key>UISceneStoryboardFile</key>
 					<string>Main</string>
-				<key>NSCameraUsageDescription</key><string>Cette application utilise la caméra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accède à vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
+				<key>NSCameraUsageDescription</key><string>Cette application utilise la camï¿½ra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accï¿½de ï¿½ vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
 			</array>
-		<key>NSCameraUsageDescription</key><string>Cette application utilise la caméra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accède à vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
-	<key>NSCameraUsageDescription</key><string>Cette application utilise la caméra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accède à vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
+		<key>NSCameraUsageDescription</key><string>Cette application utilise la camï¿½ra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accï¿½de ï¿½ vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
+	<key>NSCameraUsageDescription</key><string>Cette application utilise la camï¿½ra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accï¿½de ï¿½ vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -66,5 +72,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-<key>NSCameraUsageDescription</key><string>Cette application utilise la caméra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accède à vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
+<key>NSCameraUsageDescription</key><string>Cette application utilise la camï¿½ra pour prendre des photos.</string><key>NSPhotoLibraryUsageDescription</key><string>Cette application accï¿½de ï¿½ vos photos.</string><key>NSMicrophoneUsageDescription</key><string>Cette application utilise le microphone.</string></dict>
 </plist>
